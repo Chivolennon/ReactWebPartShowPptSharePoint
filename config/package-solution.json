@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "reflexion-seguridad-client-side-solution",
+    "id": "b1ff6b30-4af0-4eb7-b835-b9e2ed9bbabb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "reflexionSeguridad description"
+      },
+      "longDescription": {
+        "default": "reflexionSeguridad description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "reflexion-seguridad Feature",
+        "description": "The feature that activates elements of the reflexion-seguridad solution.",
+        "id": "e55743b2-ccba-4d3b-857e-a677a5dea66d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/reflexion-seguridad.sppkg"
+  }
+}
